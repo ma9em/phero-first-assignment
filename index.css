@@ -2,20 +2,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
 /* Bold 700 */
 
-*{margin: 0%;}
 
 
 /* commands of header-nav */
 .header-nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 150px ;}
+    margin: 0px 150px ;}
 /* this is commands for mayem.cv */
 .header-nav .mayemcv{  color: rgb(13, 19, 33);
                         font-family: Azeret Mono;
                         font-size: 25px;
                         font-weight: 800;
-                        margin: 50px 150px; }
+                        margin: 0px 150px; }
 /* commands for download resume button */
 .header-nav .d-resume-btn{justify-content: center;
                         align-items: center;
@@ -39,6 +38,10 @@
                 gap: 32px;
                 justify-content: center;
                 text-align: center;
+                width: 1440px;
+                height: 652px;
+                margin-top:35px;
+                
 }
  /* commands for h1 in the first section                                     */
 .first-section .bighead{color: rgb(13, 19, 33);
@@ -57,7 +60,7 @@
                             margin-top:24px
                             }
 
-    .first-section .contact-btn{ padding: 21px 24px 21px 24px;
+.first-section .contact-btn{ padding: 21px 24px 21px 24px;
                                 border-radius: 8px;
                                 color: rgb(255, 255, 255);
                                 font-family: Azeret Mono;
