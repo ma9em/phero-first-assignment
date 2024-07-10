@@ -32,14 +32,13 @@
 
 
 /* Commands of first section */
-
 .first-section{
                 background-image: url("./assets/Hero-bg.png");
                 gap: 32px;
                 justify-content: center;
                 text-align: center;
-                width: 1440px;
-                height: 652px;
+                width: 1220px;
+                height: 543px;
                 margin-top:35px;
                 
 }
@@ -71,3 +70,134 @@
                                 text-align: center;
                                  background: rgb(13, 19, 33);
                                  margin-top:32px}
+
+
+
+
+/* Commands of second section */
+
+/* whole second section container div */
+.second-section .mota-div{
+                            border-radius: 16px;
+                            background: rgba(13, 19, 33, 0.02);
+                            padding: 80px 97px 80px 97px;
+
+                            
+}
+
+.second-section .mota-heading{ text-align: center;
+                                color: rgb(13, 19, 33);
+                                font-family: Azeret Mono;
+                                font-size: 32px;
+                                font-weight: 800;
+                                line-height: 37px;
+                            }
+
+
+.second-section .mota-p{
+                            color: rgb(13, 19, 33);
+                            font-family: Azeret Mono;
+                            font-size: 16px;
+                            font-weight: 400;
+                            line-height: 26px;
+                            text-align: center;
+                            opacity: 0.7;
+                        }
+/* commands for all inner contains */
+
+
+
+.mota-div .inner-mota1{  display: flex;
+                        justify-content: space-between;
+                        margin: 32px 0px;
+                        padding: 48px;
+                        border-radius: 16px;
+                        background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%); }
+
+
+ul> li{
+    list-style: none;
+}
+
+.div-contain1-h{ color: rgba(13, 19, 33, 0.7);
+                            font-family: Azeret Mono;
+                            font-size: 24px;
+                            font-weight: 700;
+                            line-height: 36px;
+                            text-align: left;}
+
+.div-contain1-p{color: rgb(13, 19, 33);
+                font-family: Azeret Mono;
+                font-size: 16px;
+                font-weight: 400;
+                line-height: 26px;
+                letter-spacing: 0%;
+                text-align: left;
+                opacity: 0.7;
+}
+.mota-div .inner-mota2{  display: flex;
+                        justify-content: space-between;
+                        margin: 32px 0px;
+                        padding: 48px;
+                        border-radius: 16px;
+                        background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%); }
+                        
+.div-contain2-h{ color: rgba(13, 19, 33, 0.7);
+                font-family: Azeret Mono;
+                font-size: 24px;
+                font-weight: 700;
+                line-height: 36px;
+                text-align:right;}
+.div-contain2-p{    color: rgb(13, 19, 33);
+                    font-family: Azeret Mono;
+                    font-size: 16px;
+                    font-weight: 400;
+                    line-height: 26px;
+                    letter-spacing: 0%;
+                    text-align:right;
+                    opacity: 0.7;
+}
+
+
+.mota-div .inner-mota3{  display: flex;
+                        justify-content: space-between;
+                        margin: 32px 0px;
+                        padding: 48px;
+                        border-radius: 16px;
+                        background: linear-gradient(90.00deg, rgb(255, 255, 255),rgba(255, 255, 255, 0) 100%); }
+                        
+.div-contain3-h{ color: rgba(13, 19, 33, 0.7);
+                 font-family: Azeret Mono;
+                 font-size: 24px;
+                 font-weight: 700;
+                 line-height: 36px;
+                 text-align: left;}
+.div-contain3-p{color: rgb(13, 19, 33);
+                    font-family: Azeret Mono;
+                    font-size: 16px;
+                    font-weight: 400;
+                    line-height: 26px;
+                    letter-spacing: 0%;
+                    text-align: left;
+                    opacity: 0.7;
+}
+
+.mota-btn{  font-family: Azeret Mono;
+            display: flex;
+            box-sizing: border-box;
+            border: 1px solid rgb(13, 19, 33);
+            opacity: 0.7;
+            opacity: 0.7;
+            padding: 12px 20px 12px 20px;
+            margin: 0px 10px;
+          
+
+          
+    }
+.div-contain2-b{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                align-content: center;}
+
+                
