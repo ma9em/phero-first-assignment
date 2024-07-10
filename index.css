@@ -34,7 +34,7 @@
 /* Commands of first section */
 
 .first-section{
-                background-image: url(./assets/Hero-bg.png);
+                background-image: url("./assets/Hero-bg.png");
                 gap: 32px;
                 justify-content: center;
                 text-align: center;
